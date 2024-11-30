@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋.
+⚡ Fun fact: Programers will be replaced by AI. We are all doomed.😄
 
 <!--
 **NikitaSlo/NikitaSlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
